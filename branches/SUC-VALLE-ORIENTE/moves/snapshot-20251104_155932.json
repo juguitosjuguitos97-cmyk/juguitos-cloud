@@ -1,0 +1,124 @@
+{
+  "branchId": "SUC-VALLE-ORIENTE",
+  "branchName": "Valle Oriente",
+  "exportedAt": "2025-11-04T21:59:32.223Z",
+  "items": [
+    {
+      "id": "IMV-mhkmsjp2-209",
+      "supplyId": "SUP-mhjsgmzi-362",
+      "supplyName": "Fresa",
+      "branchId": "SUC-VALLE-ORIENTE",
+      "deltaUnits": 4,
+      "reason": "RECEPTION",
+      "note": null,
+      "createdAt": "2025-11-04T13:55:16.790Z"
+    },
+    {
+      "id": "IMV-mhkmss6l-487",
+      "supplyId": "SUP-mhjsgmzi-362",
+      "supplyName": "Fresa",
+      "branchId": "SUC-VALLE-ORIENTE",
+      "deltaUnits": -2,
+      "reason": "WASTE",
+      "note": null,
+      "createdAt": "2025-11-04T13:55:27.790Z"
+    },
+    {
+      "id": "MV-mhl1bsvg-972",
+      "supplyId": "SUP-mhjsgmzi-362",
+      "supplyName": "Fresa",
+      "branchId": "SUC-VALLE-ORIENTE",
+      "branchName": "Valle Oriente",
+      "deltaUnits": -1,
+      "reason": "SALE",
+      "note": null,
+      "createdAt": "2025-11-04T20:42:09.771Z"
+    },
+    {
+      "id": "MV-mhl1d598-72",
+      "supplyId": "SUP-mhjsgmzi-362",
+      "supplyName": "Fresa",
+      "branchId": "SUC-VALLE-ORIENTE",
+      "branchName": "Valle Oriente",
+      "deltaUnits": -1,
+      "reason": "SALE",
+      "note": null,
+      "createdAt": "2025-11-04T20:43:12.476Z"
+    },
+    {
+      "id": "MV-mhl20ey3-904",
+      "supplyId": "SUP-mhjsgmzi-362",
+      "supplyName": "Fresa",
+      "branchId": "SUC-VALLE-ORIENTE",
+      "branchName": "Valle Oriente",
+      "deltaUnits": -1,
+      "reason": "SALE",
+      "note": null,
+      "createdAt": "2025-11-04T21:01:18.120Z"
+    },
+    {
+      "id": "MV-mhl2ue3t-228",
+      "supplyId": "SUP-mhjsgmzi-362",
+      "supplyName": "Fresa",
+      "branchId": "SUC-VALLE-ORIENTE",
+      "branchName": "Valle Oriente",
+      "deltaUnits": -1,
+      "reason": "SALE",
+      "note": null,
+      "createdAt": "2025-11-04T21:24:36.709Z"
+    },
+    {
+      "id": "MV-mhl3ejf9-423",
+      "supplyId": "SUP-mhjsgmzi-362",
+      "supplyName": "Fresa",
+      "branchId": "SUC-VALLE-ORIENTE",
+      "branchName": "Valle Oriente",
+      "deltaUnits": -1,
+      "reason": "SALE",
+      "note": null,
+      "createdAt": "2025-11-04T21:40:16.723Z"
+    },
+    {
+      "id": "IMV-mhl3os9c-43",
+      "supplyId": "SUP-mhl3oc1r-837",
+      "supplyName": "Pechuga a la plancha",
+      "branchId": "SUC-VALLE-ORIENTE",
+      "deltaUnits": 25,
+      "reason": "RECEPTION",
+      "note": null,
+      "createdAt": "2025-11-04T21:48:14.736Z"
+    },
+    {
+      "id": "IMV-mhl3qu9k-196",
+      "supplyId": "SUP-mhjsgmzi-362",
+      "supplyName": "Fresa",
+      "branchId": "SUC-VALLE-ORIENTE",
+      "deltaUnits": 3,
+      "reason": "WASTE",
+      "note": null,
+      "createdAt": "2025-11-04T21:49:50.648Z"
+    },
+    {
+      "id": "MV-mhl436rt-899",
+      "supplyId": "SUP-mhl3oc1r-837",
+      "supplyName": "Pechuga a la plancha",
+      "branchId": "SUC-VALLE-ORIENTE",
+      "branchName": "Valle Oriente",
+      "deltaUnits": -1,
+      "reason": "SALE",
+      "note": null,
+      "createdAt": "2025-11-04T21:59:26.726Z"
+    },
+    {
+      "id": "MV-mhl436rt-618",
+      "supplyId": "SUP-mhjsgmzi-362",
+      "supplyName": "Fresa",
+      "branchId": "SUC-VALLE-ORIENTE",
+      "branchName": "Valle Oriente",
+      "deltaUnits": -1,
+      "reason": "SALE",
+      "note": null,
+      "createdAt": "2025-11-04T21:59:26.726Z"
+    }
+  ]
+}
