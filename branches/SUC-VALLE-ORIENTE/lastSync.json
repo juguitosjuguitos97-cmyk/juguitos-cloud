@@ -1,9 +1,9 @@
 {
   "branchId": "SUC-VALLE-ORIENTE",
   "branchName": "Valle Oriente",
-  "exportedAt": "2025-11-04T21:01:18.125Z",
+  "exportedAt": "2025-11-04T21:24:39.502Z",
   "counts": {
-    "ordersMerged": 5,
-    "movesMerged": 5
+    "ordersMerged": 6,
+    "movesMerged": 6
   }
 }
