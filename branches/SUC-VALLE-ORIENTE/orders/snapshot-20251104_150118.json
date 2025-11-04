@@ -1,0 +1,154 @@
+{
+  "branchId": "SUC-VALLE-ORIENTE",
+  "branchName": "Valle Oriente",
+  "exportedAt": "2025-11-04T21:01:18.125Z",
+  "items": [
+    {
+      "id": "OR-mhjtdde2-890",
+      "folio": "SUC-DEFAULT-20251103-001",
+      "branchId": "SUC-DEFAULT",
+      "createdAt": "2025-11-04T00:11:39.910Z",
+      "total": 140,
+      "status": "FINALIZADO",
+      "customerName": "Fatima",
+      "phone": null,
+      "email": null,
+      "paymentMethod": "TRANSFER",
+      "received": null,
+      "change": null,
+      "note": null,
+      "items": [
+        {
+          "productId": "MN-mhjtbrtw-48",
+          "name": "Licuado",
+          "unitPrice": 70,
+          "qty": 2,
+          "lineTotal": 140
+        }
+      ],
+      "consumption": {
+        "SUP-mhjsgmzi-362": -1
+      }
+    },
+    {
+      "id": "OR-mhk27al2-985",
+      "folio": "SUC-DEFAULT-20251103-002",
+      "branchId": "SUC-DEFAULT",
+      "createdAt": "2025-11-04T04:18:52.882Z",
+      "total": 140,
+      "status": "FINALIZADO",
+      "customerName": "Maria",
+      "phone": null,
+      "email": null,
+      "paymentMethod": "CASH",
+      "received": 200,
+      "change": 60,
+      "note": "Splenda",
+      "items": [
+        {
+          "productId": "MN-mhjtbrtw-48",
+          "name": "Licuado",
+          "unitPrice": 70,
+          "qty": 2,
+          "lineTotal": 140
+        }
+      ],
+      "consumption": {
+        "SUP-mhjsgmzi-362": -1
+      }
+    },
+    {
+      "id": "OR-mhl1bsvg-72",
+      "folio": "SUC-VALLE-ORIENTE-20251104-001",
+      "branchId": "SUC-VALLE-ORIENTE",
+      "branchName": "Valle Oriente",
+      "day": "20251104",
+      "month": "202511",
+      "createdAt": "2025-11-04T20:42:09.771Z",
+      "total": 70,
+      "status": "EN_PROCESO",
+      "customerName": null,
+      "phone": null,
+      "email": null,
+      "paymentMethod": "CASH",
+      "paymentLabel": "Efectivo",
+      "received": 100,
+      "change": 30,
+      "note": null,
+      "items": [
+        {
+          "productId": "MN-mhjtbrtw-48",
+          "name": "Licuado",
+          "unitPrice": 70,
+          "qty": 1,
+          "lineTotal": 70
+        }
+      ],
+      "consumption": {
+        "SUP-mhjsgmzi-362": -1
+      }
+    },
+    {
+      "id": "OR-mhl1d598-407",
+      "folio": "SUC-VALLE-ORIENTE-20251104-002",
+      "branchId": "SUC-VALLE-ORIENTE",
+      "branchName": "Valle Oriente",
+      "day": "20251104",
+      "month": "202511",
+      "createdAt": "2025-11-04T20:43:12.476Z",
+      "total": 70,
+      "status": "FINALIZADO",
+      "customerName": "Maria",
+      "phone": null,
+      "email": null,
+      "paymentMethod": "CASH",
+      "paymentLabel": "Efectivo",
+      "received": 80,
+      "change": 10,
+      "note": "Nota",
+      "items": [
+        {
+          "productId": "MN-mhjtbrtw-48",
+          "name": "Licuado",
+          "unitPrice": 70,
+          "qty": 1,
+          "lineTotal": 70
+        }
+      ],
+      "consumption": {
+        "SUP-mhjsgmzi-362": -1
+      }
+    },
+    {
+      "id": "OR-mhl20ey4-688",
+      "folio": "SUC-VALLE-ORIENTE-20251104-003",
+      "branchId": "SUC-VALLE-ORIENTE",
+      "branchName": "Valle Oriente",
+      "day": "20251104",
+      "month": "202511",
+      "createdAt": "2025-11-04T21:01:18.120Z",
+      "total": 70,
+      "status": "EN_PROCESO",
+      "customerName": "Danone",
+      "phone": null,
+      "email": null,
+      "paymentMethod": "TRANSFER",
+      "paymentLabel": "Transferencia",
+      "received": null,
+      "change": null,
+      "note": "Dani",
+      "items": [
+        {
+          "productId": "MN-mhjtbrtw-48",
+          "name": "Licuado",
+          "unitPrice": 70,
+          "qty": 1,
+          "lineTotal": 70
+        }
+      ],
+      "consumption": {
+        "SUP-mhjsgmzi-362": -1
+      }
+    }
+  ]
+}
