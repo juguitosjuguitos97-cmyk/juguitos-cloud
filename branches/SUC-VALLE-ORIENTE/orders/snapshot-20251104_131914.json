@@ -1,0 +1,61 @@
+{
+  "branchId": "SUC-VALLE-ORIENTE",
+  "branchName": "Valle Oriente",
+  "exportedAt": "2025-11-04T19:19:14.991Z",
+  "items": [
+    {
+      "id": "OR-mhjtdde2-890",
+      "folio": "SUC-DEFAULT-20251103-001",
+      "branchId": "SUC-DEFAULT",
+      "createdAt": "2025-11-04T00:11:39.910Z",
+      "total": 140,
+      "status": "FINALIZADO",
+      "customerName": "Fatima",
+      "phone": null,
+      "email": null,
+      "paymentMethod": "TRANSFER",
+      "received": null,
+      "change": null,
+      "note": null,
+      "items": [
+        {
+          "productId": "MN-mhjtbrtw-48",
+          "name": "Licuado",
+          "unitPrice": 70,
+          "qty": 2,
+          "lineTotal": 140
+        }
+      ],
+      "consumption": {
+        "SUP-mhjsgmzi-362": -1
+      }
+    },
+    {
+      "id": "OR-mhk27al2-985",
+      "folio": "SUC-DEFAULT-20251103-002",
+      "branchId": "SUC-DEFAULT",
+      "createdAt": "2025-11-04T04:18:52.882Z",
+      "total": 140,
+      "status": "FINALIZADO",
+      "customerName": "Maria",
+      "phone": null,
+      "email": null,
+      "paymentMethod": "CASH",
+      "received": 200,
+      "change": 60,
+      "note": "Splenda",
+      "items": [
+        {
+          "productId": "MN-mhjtbrtw-48",
+          "name": "Licuado",
+          "unitPrice": 70,
+          "qty": 2,
+          "lineTotal": 140
+        }
+      ],
+      "consumption": {
+        "SUP-mhjsgmzi-362": -1
+      }
+    }
+  ]
+}
